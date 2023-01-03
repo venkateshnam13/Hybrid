@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Venky" parallel="tests">
+<test name="Report" parallel="tests">
+<classes>
+<class name="dec8.FirstTestNGclass">
+</class>
+<class name="dec8.SecondTestNGclass">
+</class>
+</classes>
+</test>
+</suite>
+
